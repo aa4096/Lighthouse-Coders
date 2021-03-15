@@ -1,1 +1,1 @@
-# lighthousecoders
+# Lighthouse Coders
